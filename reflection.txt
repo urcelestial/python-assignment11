@@ -1,0 +1,8 @@
+Static vs. Interactive Visualizations
+Static charts show a single fixed view of your data and cannot be changed once created. They are great for simple PDF reports. Interactive charts let you hover over points to see exact numbers, zoom in on specific areas, and filter data on the fly.
+
+Why Dashboards Are Useful
+Dashboards bring multiple charts into one place and update automatically as new data comes in. Instead of digging through giant spreadsheets, anyone on the team can click buttons or change filters to get instant answers.
+
+How Plotly Helps Communication
+Plotly lets you turn complex data into interactive graphs that anyone can open in a web browser. People can explore the numbers themselves during meetings, which makes technical ideas much easier to understand and helps teams make faster decisions.
